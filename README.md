@@ -1,12 +1,12 @@
-# What does it do? 
+# About
 
 This is a Twitter Bootstrap 3 plugin that enables an HTML5 drag-and-drop sort feature for columns (aka .col-\*) contained in the grid layout (aka .row).
 
-# How do I install?
+# Installation
 
 Simply grab the file sortablecols.js and load in your web page, after jQuery and Bootstrap core files.
 
-# How do I use it?
+# Usage
 
 1. Simply add an id to the .row where you want to allow the columns to be sorted.
 ```html
